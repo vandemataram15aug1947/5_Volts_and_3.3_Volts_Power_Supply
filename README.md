@@ -1,1 +1,1 @@
-# 5_Volts_3.3_Volts_1.65_Volts_Power_Supply
+# 5_Volts_and_3.3_Volts_Power_Supply
