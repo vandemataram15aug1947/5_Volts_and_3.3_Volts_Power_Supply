@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=DC_VPV Pin=C2-1
+Removed Pin From Net: NetName=NetC1_2 Pin=C2-2
+Change Component Footprint: Designator=rECA Old Footprint=61900211121 New Footprint=61900211121
+Change Component Footprint: Designator=rECB Old Footprint=61900211121 New Footprint=61900211121
+Change Component Footprint: Designator=rECC Old Footprint=61900211121 New Footprint=61900211121
+Change Component Footprint: Designator=rECD Old Footprint=61900211121 New Footprint=61900211121
+Change Component Footprint: Designator=rECE Old Footprint=61900211121 New Footprint=61900211121
+Change Component Footprint: Designator=rECF Old Footprint=61900211121 New Footprint=61900211121
+Change Component Footprint: Designator=rECG Old Footprint=61900211121 New Footprint=61900211121
+Change Component Footprint: Designator=rECH Old Footprint=61900211121 New Footprint=61900211121
+Change Component Footprint: Designator=rECI Old Footprint=61900211121 New Footprint=61900211121
+Change Component Footprint: Designator=rECJ Old Footprint=61900211121 New Footprint=61900211121
+Change Component Footprint: Designator=rECK Old Footprint=61900211121 New Footprint=61900211121
+Change Component Footprint: Designator=rECL Old Footprint=61900211121 New Footprint=61900211121
+Change Component Footprint: Designator=rECM Old Footprint=61900211121 New Footprint=61900211121
+Change Component Footprint: Designator=rECN Old Footprint=61900211121 New Footprint=61900211121
+Change Component Footprint: Designator=rECO Old Footprint=61900211121 New Footprint=61900211121
+Change Component Footprint: Designator=rECP Old Footprint=61900211121 New Footprint=61900211121
+Change Component Footprint: Designator=rECQ Old Footprint=61900211121 New Footprint=61900211121
+Change Component Footprint: Designator=rECR Old Footprint=61900211121 New Footprint=61900211121
+Change Component Footprint: Designator=rECS Old Footprint=61900211121 New Footprint=61900211121
+Change Component Footprint: Designator=rECT Old Footprint=61900211121 New Footprint=61900211121
+Change Component Footprint: Designator=PowerA Old Footprint=WL-SMCW_0805_150080xx75000 New Footprint=WL-SMCW_0805_150080xx75000
+Change Component Footprint: Designator=PowerB Old Footprint=WL-SMCW_0805_150080xx75000 New Footprint=WL-SMCW_0805_150080xx75000
+Change Component Footprint: Designator=PowerC Old Footprint=WL-SMCW_0805_150080xx75000 New Footprint=WL-SMCW_0805_150080xx75000
+Change Component Footprint: Designator=PowerD Old Footprint=WL-SMCW_0805_150080xx75000 New Footprint=WL-SMCW_0805_150080xx75000
+Change Component Footprint: Designator=PowerE Old Footprint=WL-SMCW_0805_150080xx75000 New Footprint=WL-SMCW_0805_150080xx75000
+Change Component Footprint: Designator=PowerF Old Footprint=WL-SMCW_0805_150080xx75000 New Footprint=WL-SMCW_0805_150080xx75000
+Change Component Footprint: Designator=PowerG Old Footprint=WL-SMCW_0805_150080xx75000 New Footprint=WL-SMCW_0805_150080xx75000
+Change Component Footprint: Designator=PowerH Old Footprint=WL-SMCW_0805_150080xx75000 New Footprint=WL-SMCW_0805_150080xx75000
+Change Component Footprint: Designator=PowerI Old Footprint=WL-SMCW_0805_150080xx75000 New Footprint=WL-SMCW_0805_150080xx75000
+Change Component Footprint: Designator=PowerJ Old Footprint=WL-SMCW_0805_150080xx75000 New Footprint=WL-SMCW_0805_150080xx75000
+Added Pin To Net: NetName=NetC1_2 Pin=C2-1
+Added Pin To Net: NetName=DC_VPV Pin=C2-2

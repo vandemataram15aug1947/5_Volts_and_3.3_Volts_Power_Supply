@@ -1,0 +1,117 @@
+Removed Pin From Net: NetName=GND_VPV Pin=U10-1
+Removed Pin From Net: NetName=NetC17_2 Pin=U10-3
+Removed Pin From Net: NetName=3.3V_VPV Pin=U10-4
+Removed Pin From Net: NetName=GND_IPV Pin=U12-1
+Removed Pin From Net: NetName=NetC21_2 Pin=U12-3
+Removed Pin From Net: NetName=3.3V_IPV Pin=U12-4
+Removed Pin From Net: NetName=GND_Grid Pin=U14-1
+Removed Pin From Net: NetName=NetC25_2 Pin=U14-3
+Removed Pin From Net: NetName=3.3V_Grid Pin=U14-4
+Removed Pin From Net: NetName=GND_Iinv Pin=U16-1
+Removed Pin From Net: NetName=NetC29_2 Pin=U16-3
+Removed Pin From Net: NetName=3.3V_Iinv Pin=U16-4
+Removed Pin From Net: NetName=GND_Grid_Ref Pin=U18-1
+Removed Pin From Net: NetName=NetC33_2 Pin=U18-3
+Removed Pin From Net: NetName=3.3V_Grid_Ref Pin=U18-4
+Removed Pin From Net: NetName=GND_Iinv_Ref Pin=U20-1
+Removed Pin From Net: NetName=NetC37_2 Pin=U20-3
+Removed Pin From Net: NetName=3.3V_Iinv_Ref Pin=U20-4
+Change Component Footprint: Designator=U10 Old Footprint=TO-252_L New Footprint=TO-252_N
+Change Component Footprint: Designator=U12 Old Footprint=TO-252_L New Footprint=TO-252_N
+Change Component Footprint: Designator=U14 Old Footprint=TO-252_L New Footprint=TO-252_N
+Change Component Footprint: Designator=U16 Old Footprint=TO-252_L New Footprint=TO-252_N
+Change Component Footprint: Designator=U18 Old Footprint=TO-252_L New Footprint=TO-252_N
+Change Component Footprint: Designator=U20 Old Footprint=TO-252_L New Footprint=TO-252_N
+Change Component Comment : Designator=U10 Old Comment=LD1117ADT33TR New Comment=LF33ABDT-TR
+Change Component Comment : Designator=U12 Old Comment=LD1117ADT33TR New Comment=LF33ABDT-TR
+Change Component Comment : Designator=U14 Old Comment=LD1117ADT33TR New Comment=LF33ABDT-TR
+Change Component Comment : Designator=U16 Old Comment=LD1117ADT33TR New Comment=LF33ABDT-TR
+Change Component Comment : Designator=U18 Old Comment=LD1117ADT33TR New Comment=LF33ABDT-TR
+Change Component Comment : Designator=U20 Old Comment=LD1117ADT33TR New Comment=LF33ABDT-TR
+Change Managed Component Library Link : Designator=U10 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=2FCBEB65-D632-4F0A-AB8C-F5C77F998952 New ItemGUID=FF0C6317-1876-41F1-B7B1-DD5E33385A0A Old RevisionGUID=B26A0E7A-FB81-4196-911E-60DE4425EF9D New RevisionGUID=1FED3148-DBAE-4F37-AC6D-B52496AB636E
+Change Managed Component Library Link : Designator=U12 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=2FCBEB65-D632-4F0A-AB8C-F5C77F998952 New ItemGUID=FF0C6317-1876-41F1-B7B1-DD5E33385A0A Old RevisionGUID=B26A0E7A-FB81-4196-911E-60DE4425EF9D New RevisionGUID=1FED3148-DBAE-4F37-AC6D-B52496AB636E
+Change Managed Component Library Link : Designator=U14 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=2FCBEB65-D632-4F0A-AB8C-F5C77F998952 New ItemGUID=FF0C6317-1876-41F1-B7B1-DD5E33385A0A Old RevisionGUID=B26A0E7A-FB81-4196-911E-60DE4425EF9D New RevisionGUID=1FED3148-DBAE-4F37-AC6D-B52496AB636E
+Change Managed Component Library Link : Designator=U16 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=2FCBEB65-D632-4F0A-AB8C-F5C77F998952 New ItemGUID=FF0C6317-1876-41F1-B7B1-DD5E33385A0A Old RevisionGUID=B26A0E7A-FB81-4196-911E-60DE4425EF9D New RevisionGUID=1FED3148-DBAE-4F37-AC6D-B52496AB636E
+Change Managed Component Library Link : Designator=U18 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=2FCBEB65-D632-4F0A-AB8C-F5C77F998952 New ItemGUID=FF0C6317-1876-41F1-B7B1-DD5E33385A0A Old RevisionGUID=B26A0E7A-FB81-4196-911E-60DE4425EF9D New RevisionGUID=1FED3148-DBAE-4F37-AC6D-B52496AB636E
+Change Managed Component Library Link : Designator=U20 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=2FCBEB65-D632-4F0A-AB8C-F5C77F998952 New ItemGUID=FF0C6317-1876-41F1-B7B1-DD5E33385A0A Old RevisionGUID=B26A0E7A-FB81-4196-911E-60DE4425EF9D New RevisionGUID=1FED3148-DBAE-4F37-AC6D-B52496AB636E
+Change component parameters: Designator = "U10" ("U10"); Footprint = "TO-252_L"; UniqueID = "\JXHJYXXP" ("\JXHJYXXP")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00000546.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "1/11/2010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "3-Pin Transistor Outline Package 2.28 mm Pitch, 9.7 mm Lead Span (DPAK)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "TO-252"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "2011"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U12" ("U12"); Footprint = "TO-252_L"; UniqueID = "\PXDORQBZ" ("\PXDORQBZ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00000546.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "1/11/2010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "3-Pin Transistor Outline Package 2.28 mm Pitch, 9.7 mm Lead Span (DPAK)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "TO-252"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "2011"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U14" ("U14"); Footprint = "TO-252_L"; UniqueID = "\OKUAJGJG" ("\OKUAJGJG")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00000546.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "1/11/2010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "3-Pin Transistor Outline Package 2.28 mm Pitch, 9.7 mm Lead Span (DPAK)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "TO-252"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "2011"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U16" ("U16"); Footprint = "TO-252_L"; UniqueID = "\DBEDWHLX" ("\DBEDWHLX")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00000546.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "1/11/2010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "3-Pin Transistor Outline Package 2.28 mm Pitch, 9.7 mm Lead Span (DPAK)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "TO-252"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "2011"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U18" ("U18"); Footprint = "TO-252_L"; UniqueID = "\HXGTRLHN" ("\HXGTRLHN")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00000546.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "1/11/2010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "3-Pin Transistor Outline Package 2.28 mm Pitch, 9.7 mm Lead Span (DPAK)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "TO-252"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "2011"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U20" ("U20"); Footprint = "TO-252_L"; UniqueID = "\CQQWBSJD" ("\CQQWBSJD")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00000546.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "1/11/2010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "3-Pin Transistor Outline Package 2.28 mm Pitch, 9.7 mm Lead Span (DPAK)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "TO-252"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "2011"; VariantName = "[No Variations]"
+Added Component: Designator=U?(TO-252_N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00000546.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1/11/2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Pin Transistor Outline Package 2.28 mm Pitch, 9.7 mm Lead Span (DPAK)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "TO-252"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "2011"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC17_2 Pin=U10-1
+Added Pin To Net: NetName=3.3V_VPV Pin=U10-3
+Added Pin To Net: NetName=GND_VPV Pin=U10-4
+Added Pin To Net: NetName=NetC21_2 Pin=U12-1
+Added Pin To Net: NetName=3.3V_IPV Pin=U12-3
+Added Pin To Net: NetName=GND_IPV Pin=U12-4
+Added Pin To Net: NetName=NetC25_2 Pin=U14-1
+Added Pin To Net: NetName=3.3V_Grid Pin=U14-3
+Added Pin To Net: NetName=GND_Grid Pin=U14-4
+Added Pin To Net: NetName=NetC29_2 Pin=U16-1
+Added Pin To Net: NetName=3.3V_Iinv Pin=U16-3
+Added Pin To Net: NetName=GND_Iinv Pin=U16-4
+Added Pin To Net: NetName=NetC33_2 Pin=U18-1
+Added Pin To Net: NetName=3.3V_Grid_Ref Pin=U18-3
+Added Pin To Net: NetName=GND_Grid_Ref Pin=U18-4
+Added Pin To Net: NetName=NetC37_2 Pin=U20-1
+Added Pin To Net: NetName=3.3V_Iinv_Ref Pin=U20-3
+Added Pin To Net: NetName=GND_Iinv_Ref Pin=U20-4
